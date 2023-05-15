@@ -13,3 +13,6 @@ Using these metrics, RFM analysis creates a score for each customer, with higher
 For example, customers who have high scores in all three metrics may be given VIP status and offered exclusive discounts or rewards, while customers with low scores may be targeted with promotional offers to encourage them to make more purchases.
 
 RFM analysis is a powerful tool for businesses to understand their customer behavior and tailor their marketing efforts accordingly.
+
+## The Final Out put should be like this : 
+https://prnt.sc/Knl7UzqX4SVS
