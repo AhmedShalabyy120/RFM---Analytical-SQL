@@ -14,6 +14,8 @@ For example, customers who have high scores in all three metrics may be given VI
 
 RFM analysis is a powerful tool for businesses to understand their customer behavior and tailor their marketing efforts accordingly.
 
-## The Final Out put should be like this : 
-![Sample](https://prnt.sc/Knl7UzqX4SVS)
 
+
+## Final out put should be like this : 
+
+![Screenshot 2023-05-15 071230](https://github.com/AhmedShalabyy120/RFM---Analytical-SQL/assets/82421373/c21a26aa-2a75-4ca1-88d1-2d4491056db8)
